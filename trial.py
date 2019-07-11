@@ -13,5 +13,4 @@ print("Finish job, result=%i" % a)
 print("This is", platform.system())
 
 print("Modified this line to test git.")
-b = 2
-c = 3
+# I went back to change 1
